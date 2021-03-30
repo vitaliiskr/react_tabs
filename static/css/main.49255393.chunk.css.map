@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,QACE,qBAA+B,CAC/B,WAAY","file":"main.49255393.chunk.css","sourcesContent":["// Put styles here\n.active {\n  background-color: rebeccapurple;\n  color: wheat;\n}\n"]}
